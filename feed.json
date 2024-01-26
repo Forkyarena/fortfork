@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Fort Fork",
     "description": "",
-    "home_page_url": "https://forkyarena.github.io",
-    "feed_url": "https://forkyarena.github.io/feed.json",
+    "home_page_url": "https://forkyarena.github.io/fortfork",
+    "feed_url": "https://forkyarena.github.io/fortfork/feed.json",
     "user_comment": "",
     "author": {
         "name": "Fork"
     },
     "items": [
         {
-            "id": "https://forkyarena.github.io/test-2.html",
-            "url": "https://forkyarena.github.io/test-2.html",
+            "id": "https://forkyarena.github.io/fortfork/test-2.html",
+            "url": "https://forkyarena.github.io/fortfork/test-2.html",
             "title": "test",
             "summary": "Test",
             "content_html": "<p>Test</p>",
